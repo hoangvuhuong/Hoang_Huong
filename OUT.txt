@@ -1,0 +1,44 @@
+hello Xin Chào
+goodbye Tạm Biệt
+mother Mẹ
+class Lớp
+computer Máy tính
+name Tên
+teacher Giáo viên
+add Thêm
+bag Cặp
+father Bố, ba, cha
+sister Chị gái, em gái
+brother Anh trai, em trai
+web Lưới
+chair Ghế
+key khoá
+table Bảng
+time Thời gian
+Character Kí tự
+cup Cái ly
+clock Đồng hồ
+line Dòng
+bear Con Gấu
+dog Con chó
+cat Con mèo
+animal Động vật
+one số một
+two số hai
+three số ba
+four số bốn
+five số năm
+six số sáu
+seven số bảy
+eight số tám
+nine số chín
+ten số mười
+spring Mùa xuân
+summer Mùa hè
+winter Mùa đông
+mouse con chuột
+duck con vịt
+messeger Tin nhắn
+run Chạy
+test kiểm tra
+gnf wsw
